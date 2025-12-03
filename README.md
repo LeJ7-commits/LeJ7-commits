@@ -28,7 +28,8 @@ Highlighted Projects
 2. ASEAN Clean Water & Sanitation Analysis — Statistical Modelling in R
 - Reproducible R Markdown research study examining economic, political, and social factors affecting SDG 6 (Clean Water & Sanitation) progress across ASEAN countries.
 - Includes regression modelling, EDA, citations, and a knitted HTML report for clear communication.
-- Repository: coming soon
+- Repository: [asean-water-sanitation-statistical-study](https://github.com/LeJ7-commits/asean-water-sanitation-statistical-study)
+
 
 
 3. Future DE projects (coming soon)
