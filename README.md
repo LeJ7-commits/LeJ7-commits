@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, Jay (Jia Yang Le) here 👋
 
-<!--
-**LeJ7-commits/LeJ7-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Engineer & Machine Learning Master's student at Lund Univeristy, passionate about building scalable data systems and applying statistical learning to real-world problems. My work spans data engineering pipelines, machine learning modelling, AWS/Databricks/gCP/Azure&Fabric workflows, and end-to-end analytics delivery in enterprise environments.
 
-Here are some ideas to get you started:
+Tech Stack:
+- Languages: Python, SQL, R
+- Cloud & DE Tools: AWS Glue, Athena, S3, Databricks, Delta Lake, Azure Fabric
+- ML/Stats: Scikit-learn, Pytorch, TensorFlow, XGBoost, Gaussian Processes, PCA/PLS, EM/GMM
+- Visualization: Power BI (incl. Embedded & RLS), Matplotlib, Seaborn, Tableau
+- Other: Git, Docker, REST APIs, .NET integration for analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus:
+- Designing maintainable DE pipelines (Batch + SQL + PySpark)
+- Improving ML understanding (GPs, EM/GMM, optimization)
+- Preparing for DE/ML industry roles in Sweden (2026)
+
+Contact:
+- LinkedIn: https://www.linkedin.com/in/jiayangle/
+- Email: jiayangle@gmail.com
+
+Highlighted Projects
+1. Coffee Health Prediction – ML Classification Project in Python
+A data science project predicting occupation using synthetic lifestyle & health features. Includes preprocessing pipeline, modelling code, notebook analysis, and a reusable utility module.
+-> Repository: coming soon
+
+2. ASEAN Clean Water & Sanitation Analysis — Statistical Modelling in R
+A reproducible R Markdown research study examining economic, political, and social factors affecting SDG 6 (Clean Water & Sanitation) progress across ASEAN countries. Includes regression modelling, EDA, citations, and a knitted HTML report for clear communication.
+-> Repository: coming soon
+
+3. Future DE projects (coming soon)
+— AWS Glue ETL pipeline
+— Databricks DLT ingestion with Delta Lake
