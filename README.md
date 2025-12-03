@@ -20,12 +20,14 @@ Contact:
 
 Highlighted Projects
 1. Coffee Health Prediction – ML Classification Project in Python
-A data science project predicting occupation using synthetic lifestyle & health features. Includes preprocessing pipeline, modelling code, notebook analysis, and a reusable utility module.
--> Repository: coming soon
+- DS project predicting occupation using synthetic lifestyle & health features
+- Includes preprocessing pipeline, modelling code, notebook analysis, and a reusable utility module.
+- Repository: coming soon
 
 2. ASEAN Clean Water & Sanitation Analysis — Statistical Modelling in R
-A reproducible R Markdown research study examining economic, political, and social factors affecting SDG 6 (Clean Water & Sanitation) progress across ASEAN countries. Includes regression modelling, EDA, citations, and a knitted HTML report for clear communication.
--> Repository: coming soon
+- Reproducible R Markdown research study examining economic, political, and social factors affecting SDG 6 (Clean Water & Sanitation) progress across ASEAN countries.
+- Includes regression modelling, EDA, citations, and a knitted HTML report for clear communication.
+- Repository: coming soon
 
 3. Future DE projects (coming soon)
 — AWS Glue ETL pipeline
