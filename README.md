@@ -22,7 +22,7 @@ Highlighted Projects
 1. Coffee Health Prediction – ML Classification Project in Python
 - DS project predicting occupation using synthetic lifestyle & health features
 - Includes preprocessing pipeline, modelling code, notebook analysis, and a reusable utility module.
-- Repository: coming soon
+- Repository: [coffee-health-prediction](https://github.com/LeJ7-commits/coffee-health-prediction-)
 
 
 2. ASEAN Clean Water & Sanitation Analysis — Statistical Modelling in R
