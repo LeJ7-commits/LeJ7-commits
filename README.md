@@ -1,6 +1,6 @@
 ## Hi, Jay (Jia Yang Le) here 👋
 
-I'm a Data Engineer & Machine Learning Master's student at Lund Univeristy, passionate about building scalable data systems and applying statistical learning to real-world problems. My work spans data engineering pipelines, machine learning modelling, AWS/Databricks/gCP/Azure&Fabric workflows, and end-to-end analytics delivery in enterprise environments.
+I'm a Data Engineer & Machine Learning Master's student at Lund Univeristy, passionate about building scalable data systems and applying statistical learning to real-world problems. My work spans data engineering pipelines, machine learning modelling, AWS/Databricks/GCP/Azure&Fabric workflows, and end-to-end analytics delivery in enterprise environments.
 
 Tech Stack:
 - Languages: Python, PySpark, SQL (T-SQL, PostgreSQL, Athena SQL), R
