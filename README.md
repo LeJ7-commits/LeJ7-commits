@@ -26,7 +26,7 @@ I'm a Data Engineer and Data Analytics Master's student at Lund University, focu
 Uncertainty-aware ML project combining baseline classifiers with **Split Conformal Prediction** and **Mondrian CP** for subgroup reliability.
 - Repo: [blood-donor-conformal-prediction](https://github.com/LeJ7-commits/blood-donor-conformal-prediction)
 
-### 2) Parkinson’s Detection via Voice Features (BioVoice)
+### 2) Parkinson’s Detection via Voice Features (Random Forest, Gradient Boosting, Bagging)
 ML classification project for detecting Parkinson’s using voice-based features, with evaluation and presentation deliverables.
 - Repo: [parkinson-detection-biovoice](https://github.com/LeJ7-commits/parkinson-detection-biovoice)
 
