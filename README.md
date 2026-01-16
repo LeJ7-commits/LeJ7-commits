@@ -22,7 +22,7 @@ I'm a Data Engineer and Data Analytics Master's student at Lund University, focu
 
 ## Highlighted Projects
 
-### 1) Blood Donor Availability Prediction (Conformal Prediction)
+### 1) Blood Donor Availability Uncertainty Calibration (Conformal Prediction)
 Uncertainty-aware ML project combining baseline classifiers with **Split Conformal Prediction** and **Mondrian CP** for subgroup reliability.
 - Repo: [blood-donor-conformal-prediction](https://github.com/LeJ7-commits/blood-donor-conformal-prediction)
 
@@ -30,7 +30,7 @@ Uncertainty-aware ML project combining baseline classifiers with **Split Conform
 ML classification project for detecting Parkinson’s using voice-based features, with evaluation and presentation deliverables.
 - Repo: [parkinson-detection-biovoice](https://github.com/LeJ7-commits/parkinson-detection-biovoice)
 
-### 3) Coffee Health Prediction (Python ML Classification)
+### 3) Coffee Health Classification (Random Forest)
 ML classification project predicting occupation using synthetic lifestyle & health features, with a reusable preprocessing/modelling pipeline.
 - Repo: [coffee-health-prediction](https://github.com/LeJ7-commits/coffee-health-prediction-)
 
