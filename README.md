@@ -4,7 +4,7 @@ I'm a Data Engineer/Scientist and Data Analytics Master's student at Lund Univer
 
 ### Tech Stack
 - **Languages:** Python, PySpark, SQL (T-SQL, PostgreSQL, Athena SQL), R  
-- **Cloud & Data Engineering:** AWS, Databricks, Microsoft Fabric & Azure, GCP
+- **Cloud & Data Engineering:** AWS, Databricks, GCP
 - **ML / Statistical Learning:** scikit-learn, PyTorch, TensorFlow, XGBoost, Gaussian Processes, PCA/PLS, EM/GMM  
 - **Analytics & Visualization:** Power BI (Embedded + RLS), Matplotlib, Seaborn, Tableau  
 - **Other:** Git, REST APIs, .NET integration for analytics  
