@@ -1,6 +1,6 @@
 ## Hi, Jay Le here 👋
 
-I'm a Data Engineer/Scientist and Data Analytics Master's student at Lund University, focused on building scalable data systems and applying statistical learning to real-world problems. My work spans data engineering pipelines, machine learning modelling, cloud analytics (AWS/Databricks/Azure/GCP), and end-to-end BI delivery in enterprise environments.
+I'm a Data Engineer/Scientist and Data Analytics Master's student at Lund University, focused on building scalable data systems and applying statistical learning to real-world problems. My work spans data engineering pipelines, machine learning modelling, cloud analytics (AWS/Databricks), and end-to-end BI delivery in enterprise environments.
 
 ### Tech Stack
 - **Languages:** Python, PySpark, SQL (T-SQL, PostgreSQL, Athena SQL), R  
