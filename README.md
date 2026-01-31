@@ -11,7 +11,7 @@ I'm a Data Engineer/Scientist and Data Analytics Master's student at Lund Univer
 
 ### Current Focus
 - Working on real-time streaming pipelines (AWS + Databricks): [realtime-lakehouse-aws-databricks](https://github.com/LeJ7-commits/realtime-lakehouse-aws-databricks/)
-- Strengthening ML fundamentals (GPs, EM/GMM, optimization, uncertainty)
+- Strengthening ML fundamentals (RNNs, CNNs, Autoencoders, GPs, EM/GMM, optimization, uncertainty calibration)
 - Preparing for Data Engineering / Data Science / ML roles in Sweden (2026)
 
 ### Contact
