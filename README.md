@@ -11,7 +11,7 @@ I'm a Data Engineer / Data Scientist and Data Analytics Master's student at Lund
 
 ### Current Focus
 - Building demand forecasting ML platforms with automated training, deployment, and monitoring on Vertex AI:
-  **[vertex-ml-demand-forecasting](https://github.com/LeJ7-commits/vertex-ml-demand-forecasting)**
+- **[vertex-ml-demand-forecasting](https://github.com/LeJ7-commits/vertex-ml-demand-forecasting)**
 - Strengthening ML fundamentals (RNNs, CNNs, Autoencoders, GPs, EM/GMM, optimization, uncertainty calibration)
 - Preparing for Data Engineering / Data Science / ML roles in Sweden (2026)
 
