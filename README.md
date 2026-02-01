@@ -54,7 +54,3 @@ Reproducible R Markdown research study analysing factors affecting SDG 6 progres
 - Repo: https://github.com/LeJ7-commits/asean-water-sanitation-statistical-study
 
 ---
-
-### Next Up
-- AWS Glue ETL pipeline project  
-- Databricks Delta Live Tables (DLT) ingestion pipeline
