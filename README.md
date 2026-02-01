@@ -10,8 +10,8 @@ I'm a Data Engineer / Data Scientist and Data Analytics Master's student at Lund
 - **Other:** Git, REST APIs, .NET integration for analytics  
 
 ### Current Focus
-- Building **near real-time streaming lakehouse pipelines** (AWS S3 + Databricks Structured Streaming):  
-  **[clickstream-streaming-lakehouse](https://github.com/LeJ7-commits/clickstream-streaming-lakehouse)**
+- Developing end-to-end ML platforms on managed cloud services, covering feature pipelines, training orchestration, model deployment, monitoring, and retraining workflows (Vertex AI):  
+  **[vertex-ml-demand-forecasting](https://github.com/LeJ7-commits/vertex-ml-demand-forecasting)**
 - Strengthening ML fundamentals (RNNs, CNNs, Autoencoders, GPs, EM/GMM, optimization, uncertainty calibration)
 - Preparing for Data Engineering / Data Science / ML roles in Sweden (2026)
 
