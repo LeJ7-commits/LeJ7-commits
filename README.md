@@ -1,4 +1,4 @@
-## Hi, Jay Le here 👋
+## Hi! Jay Le here 
 
 I'm a Data Engineer / Data Scientist and Data Analytics Master's student at Lund University, focused on building scalable data systems and applying statistical learning to industry problems. My work spans data engineering pipelines, machine learning modelling, cloud analytics, and end-to-end BI delivery in enterprise environments.
 
