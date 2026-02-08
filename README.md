@@ -21,7 +21,7 @@ My work sits at the intersection of:
 
 ## Current Focus
 - Master’s thesis on probabilistic model validation and risk diagnostics for energy market models 
-- Preparing for Data Engineer / ML Engineer roles in Sweden (2026)
+- Preparing for Data Engineer / ML roles in Sweden (2026)
 
 ---
 
