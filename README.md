@@ -1,6 +1,6 @@
 ## Hi, Jay Le here 👋
 
-I’m a Data Engineer / Data Scientist and MSc student at Lund University.  
+I’m a Data Engineer and MSc student at Lund University.  
 I focus on building data and ML systems on the cloud, with an emphasis on reproducible pipelines, scalable feature engineering, and uncertainty-aware models.
 
 My work sits at the intersection of:
