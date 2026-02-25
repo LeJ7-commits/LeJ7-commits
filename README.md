@@ -1,4 +1,4 @@
-## Hi, Jay Le here 👋
+## Hi, Jay Le here 
 
 I focus on building data and ML systems on the cloud, with an emphasis on reproducible pipelines, scalable feature engineering, and uncertainty-aware models.
 
