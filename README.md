@@ -1,6 +1,6 @@
 ## Hi, Jay Le here
 
-I build data and ML systems on the cloud — with an emphasis on reproducible pipelines, scalable feature engineering, and uncertainty-aware models.  
+I build data and ML systems on the cloud with an emphasis on reproducible pipelines, scalable feature engineering, and uncertainty-aware models.  
 My work sits at the intersection of **data engineering platforms**, **applied machine learning**, and **cloud-native analytics**.
 
 ---
@@ -18,10 +18,8 @@ My work sits at the intersection of **data engineering platforms**, **applied ma
 ---
 
 ## Current Focus
-
-- Master's thesis on probabilistic model validation and risk diagnostics for energy market models
-- Preparing for Data Engineer / ML roles in Sweden (2026)
 - Curious case of Double Descent in Deep Networks → [repo](https://github.com/LeJ7-commits/double-descent-overparameterized-mlps)
+- Prepping for a data engineering role starting August 2026
 
 ---
 
